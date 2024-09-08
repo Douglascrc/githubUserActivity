@@ -1,0 +1,27 @@
+{
+  "name": "githubactivity",
+  "version": "1.0.0",
+  "description": "project that return the activity user on github",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Douglascrc/githubUserActivity.git"
+  },
+  "keywords": [
+    "github",
+    "activity",
+    "user"
+  ],
+  "author": "Douglas Campos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Douglascrc/githubUserActivity/issues"
+  },
+  "homepage": "https://github.com/Douglascrc/githubUserActivity#readme",
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
